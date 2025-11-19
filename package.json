@@ -1,0 +1,37 @@
+{
+  "name": "elysium-shield-integration",
+  "version": "1.0.0",
+  "description": "Official integration SDK for Elysium Shield - Cross-server moderation and threat detection for Discord bots",
+  "main": "shieldIntegration.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "moderation",
+    "shield",
+    "elysium",
+    "bot",
+    "security",
+    "cross-server",
+    "threat-detection",
+    "discord-bot",
+    "anti-raid",
+    "anti-spam"
+  ],
+  "author": "Elysium Development Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YourOrg/elysium-shield-integration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YourOrg/elysium-shield-integration/issues"
+  },
+  "homepage": "https://elysium-online.xyz/shield",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
