@@ -30,7 +30,7 @@ const ShieldIntegration = require('./shieldIntegration');
 ### Option 2: Clone the repository
 
 ```bash
-git clone https://github.com/YourOrg/elysium-shield-integration.git
+git clone https://github.com/willis1902/elysium-shield-integration.git
 cd elysium-shield-integration
 ```
 
@@ -343,7 +343,7 @@ See [EXAMPLES.md](./EXAMPLES.md) for complete integration examples including:
 
 - **Documentation:** [https://elysium-online.xyz/docs/shield](https://elysium-online.xyz/docs/shield)
 - **Discord:** [Join our server](https://discord.gg/elysium)
-- **Issues:** [GitHub Issues](https://github.com/YourOrg/elysium-shield-integration/issues)
+- **Issues:** [GitHub Issues](https://github.com/willis1902/elysium-shield-integration/issues)
 
 ---
 
